@@ -12,7 +12,10 @@
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 20px;
 }
 
 p {
@@ -28,7 +31,8 @@ em strong {
 }
 
 .itens {
-	font-style: italic
+	font-style: italic;
+	list-style: disc;
 }
 
 .beneficios {
